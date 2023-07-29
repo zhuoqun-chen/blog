@@ -1,1 +1,1 @@
-Sitemap: https://github.com/pages/zhuoqun-chen/blog/sitemap.xml
+Sitemap: https://zhuoqun-chen.github.io/blog/sitemap.xml
